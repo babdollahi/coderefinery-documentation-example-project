@@ -1,5 +1,6 @@
 Welcome to the readme file of coderefinery example project. 
-In this repository, has been created to analyse a spreadsheet file with temperatures.
+
+This repository, has been created to analyse a spreadsheet file with temperatures.
 
 In python analyse-spreadssheet.py :
 
